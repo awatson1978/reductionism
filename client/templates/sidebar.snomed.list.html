@@ -1,0 +1,18 @@
+<template name="snomedListSidebarTemplate">
+    <div class="hide-for-medium hide-for-small fullheight right-anchored sidebar panel">
+        <input id="sidebarSearchInput" type="text" class="search" placeholder="filter records" />
+        <ul class="list">
+            {{#each snomed_collection}}
+            {{> snomedSidebarListItem}}
+            {{/each}}
+        </ul>
+    </div>
+</template>
+
+
+<template name="snomedSidebarListItem">
+    <div class="snomedSidebarListItem">
+        <div class="three columns nopadding"><img src="{{image}}"></div>
+        <div class="nine columns sidebarListText">{{ name }}</div><br>
+    </div>
+</template>

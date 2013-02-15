@@ -1,0 +1,109 @@
+body, html{
+    min-width: 800px;
+}
+.ui-mobile, .ui-page{
+    min-width: 800px;
+}
+.page{
+    z-index: 10;
+}
+
+ul {
+    list-style: none;
+}
+input {
+    font-size: 100%;
+}
+
+a, a:visited, a:active {
+    color: #258;
+}
+
+h3 {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 120%;
+    padding: 8px 6px;
+    text-align: center;
+}
+
+#help {
+    padding: 8px;
+}
+
+
+
+
+
+.sidebar{
+    top: 40px;
+}
+.tag {
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+    background: #999;
+    color: #fff;
+    border-radius: 4px;
+
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -o-border-radius: 4px;
+
+    opacity: 1;
+    transition: opacity 0.3s linear;
+    -moz-transition: opacity 0.3s linear;
+    -webkit-transition: opacity 0.3s linear;
+    -o-transition: opacity 0.3s linear;
+
+    position: relative;
+}
+.pictograph-icon {
+    cursor: pointer;
+    margin: 5px;
+    padding: 5px;
+    font-weight: bold;
+    color: #999999;
+    border-radius: 4px;
+    font-size: 2em;
+    position: relative;
+}
+.pictograph-icon:hover {
+    color: #4682b4;
+}
+
+#tag-filter .label {
+    float: left;
+    margin-top: 9px;
+    margin-left: 12px;
+    margin-right: 8px;
+}
+
+#tag-filter .tag {
+    margin-top: 10px;
+    border: 1px solid #777;
+}
+
+#tag-filter .selected {
+    background: #69d;
+}
+
+#tag-filter .count {
+    font-weight: normal;
+    padding-left: 2px;
+}
+
+
+
+
+
+ul.inline-list > li{
+    margin-left: 0px;
+}
+.anchorImage{
+    position: fixed;
+    right: -200px;
+    top: 0px;
+    z-index: -1;
+}

@@ -1,0 +1,20 @@
+<template name="graphsPageTemplate">
+    <div id="graphsPage" class="page">
+        <div class="doesnt-overlap-header">
+            {{#constant}}
+            <div id="powersOfTenChart"></div>
+            {{/constant}}
+            {{> inspectionSidebarTemplate }}
+            {{> browserWindowTemplate}}
+        </div>
+    </div>
+</template>
+<template name="browserWindowTemplate">
+    {{#if show_browser}}
+    <div class="hide-for-large-down three fullheight columns right-anchored browser panel">
+        <object type="text/html" data="{{ browser_window_location }}" width="100%">
+            <p>backup content</p>
+        </object>
+    </div>
+    {{/if }}
+</template>

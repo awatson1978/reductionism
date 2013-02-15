@@ -1,0 +1,104 @@
+// as of Meteor 0.5.5, we can now do imports
+//@import syntax.colors.less
+
+//-----------------------------------------------------------------
+//  Graphs
+
+#forceDirectGraph{
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+
+#sunburstChart{
+  position: absolute;
+  left: 0px;
+  top: 40px;
+}
+#powersOfTenChart{
+  position: fixed;
+  top: 0px;
+  left: 260px;
+}
+
+
+//-----------------------------------------------------------------
+// Graph-Choices
+
+.graph-choices{
+  li:hover{
+    color: red;
+    cursor: pointer;
+    text-decoration: underline;
+  }
+  li{
+    color: black;
+  }
+}
+
+
+
+
+//-----------------------------------------------------------------
+// Indent Tree
+
+.node rect {
+  cursor: pointer;
+  fill: #fff;
+  fill-opacity: .5;
+  stroke: #3182bd;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  cursor: pointer;
+  font: 10px sans-serif;
+  pointer-events: none;
+}
+.node image{
+  cursor: pointer;
+}
+.node:hover{
+  cursor: pointer;
+  border: 1px solid red;
+}
+
+path.link {
+  fill: none;
+  stroke: #6B1A2C;
+  stroke-width: 1.5px;
+}
+.chart{
+  position: absolute;
+  top: 60px;
+  z-index: -1;
+}
+#svg{
+  position: fixed;
+  top: 40px;
+  padding: 20px;
+}
+.diag{
+  stroke: green;
+}
+
+
+
+.imgBorder{
+  border: 1px solid red;
+}
+
+
+//-----------------------------------------------------------------
+//  Miscellaneous
+
+.d3chart{
+  z-index: -1;
+}
+
+#collapsibleTreeChart .node{
+  cursor:pointer;
+}
+#sunburstChart path{
+  cursor:pointer;
+}

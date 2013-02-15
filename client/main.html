@@ -1,0 +1,39 @@
+<head>
+  <title>Reductionism App</title>
+</head>
+
+<body>
+    {{> app_container }}
+</body>
+
+<template name="app_container">
+    {{> headerBarTemplate }}
+    {{> footerBarTemplate }}
+    {{> graphsPageTemplate}}
+    {{!> snomedPageTemplate}}
+    {{!> snomedListSidebarTemplate}}
+</template>
+
+<template name="headerBarTemplate">
+    <div id="headerBar" data-role="header" data-theme="none">
+        <ul class="nav-bar header-nav-bar">
+            <li class="pentasyllabicLogoListItem">
+                <img class="pentasyllabicLogo" src="/images/pentasyllabic.logo.square.transparent.png">
+            </li>
+            <li><a id="homePageLink" href="#guestPage" onclick="showHomePage();">reductionism.pentasyllabic.com</a></li>
+            <li><a id="breadCrumbLink" href="#"></a></li>
+        </ul>
+        <!--<ul class="nav-bar header-nav-bar-right">-->
+            <!--<li><a href="#" onclick='Session.set("selected_graph","powersOfTenChart"); showPage("#graphsPage");'><span class="pictographs">4  </span>Powers of Ten</a></li>-->
+            <!--<li><a href="#" onclick='showPage("#snomedPage");'><span class="pictographs">4  </span>Anatomy Browser</a></li>-->
+        <!--</ul>-->
+    </div>
+</template>
+<template name="footerBarTemplate">
+    <div id="footerActionBar" data-role="footer" data-theme="none" class="nav-bar bottom-anchor">
+        <ul class="nav-bar footer-nav-bar ">
+            <!--<li><a href="#" onclick='Session.set("selected_graph","powersOfTenChart"); showPage("#graphsPage");'><span class="pictographs">4  </span>Powers of Ten</a></li>-->
+            <!--<li><a href="#" onclick='showPage("#snomedPage");'><span class="pictographs">4  </span>Anatomy Browser</a></li>-->
+        </ul>
+    </div>
+</template>

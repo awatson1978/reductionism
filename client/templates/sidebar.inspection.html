@@ -1,0 +1,14 @@
+<template name="inspectionSidebarTemplate">
+    <div id="inspectionSidebar"  class="{{sidebar_visibility}}hide-for-medium hide-for-small fullheight left-anchored sidebar panel">
+        <h6>Biological Reductionism</h6>
+        <p>What are we made of?  Organs.  What are organs made of?  Cells.  What are cells made of?  And so on down to atoms.</p>
+        <p>That's the simple way of describing biological reductionism.  In reality, it's a bit more complicated.  This is our attempt at visualizing the parts of the human body.</p>
+        <hr>
+        <p>Currently, this demo application runs off a static data file, which has to be manually edited by hand.  In the future (and with funding), we hope to added saveing and editing functionality.  Better yet would be to see it turn into a Snomed browser.</p>
+        <div class="inspection-container">
+            <div class="transparency-gradient"></div>
+            <div class="inspection-image-padding"></div>
+            <img class="inspection-image" src="{{ image_src }}">
+        </div>
+    </div>
+</template>

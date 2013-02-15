@@ -1,0 +1,29 @@
+<template name="snomedPageTemplate">
+    <div id="snomedPage" class="light page">
+        <div class="doesnt-overlap-header">
+            <!--<h4>SNOMED Anatomical Reference</h4>-->
+            <div class="spacer row"></div>
+            <div class="six columns">
+                <div id="snomed-anatomy-list">
+                    <input id="filterInput"  type="text" class="search" placeholder="filter {{snomed_count}} records" />
+                    <ul class="anatomy-images list">
+                        {{#each snomed_collection}}
+                        {{> anatomyItemTemplate}}
+                        {{/each}}
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</template>
+
+<template name="anatomyItemTemplate">
+    <li class="two column anatomy-item with-rounded-corners">
+        <div class="hidden anatomy-name">{{anatomy_image}}</div>
+        <img src="{{anatomy_image}}">
+    </li>
+</template>
+<template name="anatomySideBarTemplate">
+    <img id="sidebarImage" src="{{selected_image}}">
+</template>

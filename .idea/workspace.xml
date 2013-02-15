@@ -1,0 +1,1075 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3eb3641d-ec94-4fbf-a397-35aedb99d957" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/ChalkDust.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/FontAwesome.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/Freehand.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/HarabaraHand.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/ItAintRocketScience.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/ModernPictographs.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/Pictonic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/ShelterMe.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/WildScript.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/font/Windsong.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/guiders_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/ActiveSync.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Apple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Archive_GZIP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Asterisque.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Attention.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Attention2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Audio_MP3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/BioHazard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Broken.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/CT_Scan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Camera Green.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Camera Orange.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Camera Purple.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/CartonFermé.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Favoris.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Film.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Glass Folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Grass Folder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/GrassyTerrarium.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Image_BMP.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Image_GIF.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Image_JPG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Image_PNG.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/InDesign File.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Isis.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/MarmaladeCubes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Office_DOC.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Office_HTML.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Office_HTML2.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Office_PDF.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Office_PPT.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Office_TXT.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/PNG File.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Panel Setting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Photoshop File.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Photoshop.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Plant Tunnel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Quicktime.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/System-Binary-Blue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/System-Binary-Red.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/System-Binary.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/System_Source.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Systema_Source2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Text.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Video_AVI.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Video_MOVIE.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Video_MPEG.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Video_WMV.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Xray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Xray_Broken_Bone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Xray_Mamography.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/Xray_Tooth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/bat File.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/blue ray.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/build.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/jpeg File.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/paint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/pathing.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/pictures.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/rad_e8_.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/icons/stack 3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ajax-loader.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/ajax-loader.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/AtlasJoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/AxillaryGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/BackMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/BladderLymphatics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/BrainAxial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/BrainSagittal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/BrainSulci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Cecum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/CerebroCortex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/CircleOfWillis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/CorotidArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/CorpusCallosum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/DuraMater.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/ForeArm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/HeartAndLungs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/HipJoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Kidneys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Liver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Lungs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/MedulaOblongota.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/OpticChiasma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/OpticSystem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Pelvis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Skull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Stomach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/Teeth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/TemperomandibularNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/TorsoNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/VastusLateralis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/VertebralColumn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors.thumbnails/VertebralNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/AtlasJoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/AxillaryGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/BackMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/BladderLymphatics.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/BrainAxial.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/BrainSagittal.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/BrainSulci.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Cecum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/CerebroCortex.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/CircleOfWillis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/CorotidArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/CorpusCallosum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/DuraMater.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/ForeArm.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/HeartAndLungs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/HipJoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Kidneys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Liver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Lungs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/MedulaOblongota.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/OpticChiasma.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/OpticSystem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Pelvis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Skull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Stomach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/Teeth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/TemperomandibularNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/TorsoNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/VastusLateralis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/VertebralColumn.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/anchors/VertebralNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/abdominalArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/abdominalArteriesAndVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/abdominalOverview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteresAndVeinsOfUterus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesAndVeinsOfNeck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesAndVeinsOfUpperExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesAndViensOfLowerExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfLowerExtremities1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfLowerExtremities2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfTheColon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfTheHead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfTheStomach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/arteriesOfUpperExtremities2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/baseOfSkull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/bloodcells.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/boneGrowth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/brain5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/bridgeOfNose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/cardiac-system.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/cerabelloCortex1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/chestArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/circleOfWillis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/dental.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/digestiveGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/digestiveSystemArteriesAndVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/digestiveTrack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ear4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/earCanalBones.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/extremetesCartilidge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/eye1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/eye2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/eye3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/facialOpticArteriesAndVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/feet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/femaleSexualOrgans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/femoralStressAngles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/femoralVeinsAndArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/foramenMagnum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/fornix.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/gastricEmbryology.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/generalGlandsOfExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/headNeckMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/heart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/heart2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/hipJoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/hypothalmus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/kidneys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/knee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/larynx1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/larynx2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lateralFeet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/legMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/liver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lowerExtremityBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lungs1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lungs2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lungs3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/lymphNodesOfTheHead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/maleSexualOrgans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/mandible.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/mandibleLigiments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/maxillaryFaceBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/medullaOblongata1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/medullaOblongata2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/musclesOfLowerLeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/musclesOfTheHand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nasalFacialNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/neckArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/neckLigiments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/neckVeinsAndArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nerveDiagram1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nerveDiagram2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nerveOverview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheFaceAndMandible.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheGut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheLowerExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheLowerExtremities2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheNeck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheNeck2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfThePelvis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheShoulder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheTorso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nervesOfTheUpperExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/nose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/noseBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/opticRecess.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/opticSystem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/orbits.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/parotidGlandAndDucts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/pelvicBone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/pelvicGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/pharynx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/prostate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/rectum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/rib.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribLigiments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribcage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/ribsLungs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/scapulaeClavical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sexMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sexualDevelopment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sexualDevelopment2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/skull.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/skullPlates.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/spinalNerves1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/spinalNerves2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/sternum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/stomachAndSmallIntestines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tailbone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/testes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/thyroid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tongue2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/torsoMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/torsoOverview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tosoGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tounge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/tympanicDevelopment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/upperArmMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/upperExtremityBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/veinsOfHead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/veinsOfTheNeck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/vertebrae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/vertebralVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.thumbnails/vocalCords.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/abdominalArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/abdominalArteriesAndVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/abdominalOverview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteresAndVeinsOfUterus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesAndVeinsOfNeck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesAndVeinsOfUpperExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesAndViensOfLowerExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfLowerExtremities1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfLowerExtremities2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfTheColon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfTheHead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfTheStomach.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/arteriesOfUpperExtremities2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/baseOfSkull.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/bloodcells.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/boneGrowth.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/brain5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/bridgeOfNose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/cardiac-system.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/cerabelloCortex1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/chestArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/circleOfWillis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/dental.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/digestiveGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/digestiveSystemArteriesAndVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/digestiveTrack.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ear4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/earCanalBones.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/extremetesCartilidge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/eye1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/eye2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/eye3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/facialOpticArteriesAndVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/feet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/femaleSexualOrgans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/femoralStressAngles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/femoralVeinsAndArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/foramenMagnum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/fornix.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/gastricEmbryology.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/generalGlandsOfExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/hands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/headNeckMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/heart1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/heart2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/hipJoint.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/hypothalmus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/kidneys.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/knee.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/larynx1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/larynx2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lateralFeet.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/legMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/liver.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lowerExtremityBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lungs1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lungs2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lungs3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/lymphNodesOfTheHead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/maleSexualOrgans.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/mandible.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/mandibleLigiments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/maxillaryFaceBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/medullaOblongata1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/medullaOblongata2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/musclesOfLowerLeg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/musclesOfTheHand.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nasalFacialNerves.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/neckArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/neckLigiments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/neckVeinsAndArteries.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nerveDiagram1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nerveDiagram2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nerveOverview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheFaceAndMandible.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheGut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheLowerExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheLowerExtremities2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheNeck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheNeck2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfThePelvis.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheShoulder.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheTorso.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nervesOfTheUpperExtremities.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/nose.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/noseBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/opticRecess.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/opticSystem.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/orbits.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/parotidGlandAndDucts.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/pelvicBone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/pelvicGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/pharynx.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/prostate.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/rectum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/rib.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribLigiments.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribcage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/ribsLungs.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/scapulaeClavical.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sexMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sexualDevelopment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sexualDevelopment2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/skin.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/skull.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/skullPlates.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/spinalNerves1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/spinalNerves2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/sternum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/stomachAndSmallIntestines.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tailbone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/testes.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/thyroid.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tongue2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/torsoMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/torsoOverview.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tosoGlands.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tounge.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/tympanicDevelopment.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/upperArmMuscles.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/upperExtremityBones.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/veinsOfHead.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/veinsOfTheNeck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/vertebrae.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/vertebralVeins.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/grays.anatomy.tiles/vocalCords.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons-18-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons-18-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons-36-black.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/icons-36-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/pentasyllabic.logo.square.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/pentasyllabic.logo.square.transparent.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/placeholder-240x240.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jshint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLinters/jslint.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/sass_stdlib.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/powers-of-ten.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.meteor/packages" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/graphs/graph.powers.of.ten.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/d3.v3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/date.format.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/helpers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/jgestures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/jquery-1.7.1.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/helpers/pictonic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/navigation.links.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/page.graphs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/page.snomed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/ui.sidebar.inspection.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/libraries/ui.sidebar.snomed.list.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/app.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.blockgrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.blockquotes.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.button.groups.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.buttons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.forms.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.html.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.links.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.lists.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.messages.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.misc.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.nav-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.print.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/foundation-css/foundation.top-bar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/layout.navigation.bars.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/media.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/page.graphs.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/page.snomed.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/pictonic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/sidebar.inspection.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/sidebar.snomed.list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.base.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.colors.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.custom.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.fonts.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/stylesheets/syntax.pentasyllabic.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/subscriptions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/page.graphs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/page.snomed.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/sidebar.inspection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/client/templates/sidebar.snomed.list.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/documents/Modern Pictograms SIL OFL Font License 1.1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/hipaa.logging.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/model.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/datafile/logarithmic.tree.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/bootstrap.images.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/methods.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/publications.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server/server.js" />
+    </list>
+    <ignored path="powers-of-ten.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="logarithmic.tree.json" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/datafile/logarithmic.tree.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="30" selection-start="3956" selection-end="3956" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#8877#9258#0" expanded="false" />
+                <element signature="e#10224#12736#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.graphs.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="34" column="43" selection-start="1111" selection-end="1123" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="graph.powers.of.ten.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.powers.of.ten.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="114" column="32" selection-start="3959" selection-end="3959" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.graphs.less" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/client/stylesheets/page.graphs.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.graphs.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="37" selection-start="300" selection-end="300" vertical-scroll-proportion="0.16068867">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/client/stylesheets/layout.navigation.bars.less" />
+        <option value="$PROJECT_DIR$/client/libraries/page.snomed.js" />
+        <option value="$PROJECT_DIR$/client/stylesheets/sidebar.snomed.list.html" />
+        <option value="$PROJECT_DIR$/client/stylesheets/sidebar.snomed.list.less" />
+        <option value="$PROJECT_DIR$/client/templates/sidebar.snomed.list.html" />
+        <option value="$PROJECT_DIR$/client/libraries/ui.sidebar.snomed.list.js" />
+        <option value="$PROJECT_DIR$/client/templates/page.snomed.html" />
+        <option value="$PROJECT_DIR$/client/stylesheets/syntax.custom.less" />
+        <option value="$PROJECT_DIR$/client/main.html" />
+        <option value="$PROJECT_DIR$/public/datafile/logarithmic.tree.json" />
+        <option value="$PROJECT_DIR$/client/templates/sidebar.inspection.html" />
+        <option value="$PROJECT_DIR$/client/stylesheets/sidebar.inspection.less" />
+        <option value="$PROJECT_DIR$/client/libraries/graphs/graph.powers.of.ten.js" />
+        <option value="$PROJECT_DIR$/client/libraries/page.graphs.js" />
+        <option value="$PROJECT_DIR$/client/templates/page.graphs.html" />
+        <option value="$PROJECT_DIR$/client/stylesheets/page.graphs.less" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="17" />
+    <option name="y" value="34" />
+    <option name="width" value="925" />
+    <option name="height" value="905" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="datafile" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lib" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="documents" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="powers-of-ten" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="graphs" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="options.lastSelected" value="preferences.lookFeel" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/public/icons" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/images" />
+      <recent name="$PROJECT_DIR$/client/libraries" />
+      <recent name="$PROJECT_DIR$/client/stylesheets" />
+      <recent name="$PROJECT_DIR$/client/templates" />
+      <recent name="$PROJECT_DIR$/server" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/icons" />
+      <recent name="$PROJECT_DIR$/public/datafile" />
+      <recent name="$PROJECT_DIR$/tests" />
+      <recent name="$PROJECT_DIR$/public/" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3eb3641d-ec94-4fbf-a397-35aedb99d957" name="Default" comment="" />
+      <created>1359246902938</created>
+      <updated>1359246902938</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="17" y="34" width="925" height="905" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33924612" sideWeight="0.99901086" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/client/stylesheets/sidebar.snomed.list.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="22" selection-start="205" selection-end="205" vertical-scroll-proportion="-7.04">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/ui.sidebar.snomed.list.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="94" selection-start="711" selection-end="711" vertical-scroll-proportion="-7.04" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/sidebar.snomed.list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="0" selection-start="645" selection-end="645" vertical-scroll-proportion="-11.52">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/page.snomed.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="13" selection-start="206" selection-end="206" vertical-scroll-proportion="0.08988764">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/page.snomed.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="11" selection-start="1058" selection-end="1058" vertical-scroll-proportion="-17.92" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/stylesheets/syntax.colors.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="16" selection-start="125" selection-end="131" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="25" selection-start="32" selection-end="32" vertical-scroll-proportion="-0.64">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/stylesheets/syntax.base.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="52" selection-start="271" selection-end="313" vertical-scroll-proportion="0.09150327">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/sidebar.inspection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="48" selection-start="954" selection-end="954" vertical-scroll-proportion="0.12010008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/stylesheets/syntax.custom.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="58" column="28" selection-start="844" selection-end="844" vertical-scroll-proportion="0.70250607">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/stylesheets/sidebar.inspection.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="54" column="0" selection-start="1132" selection-end="1132" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/datafile/logarithmic.tree.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="30" selection-start="3956" selection-end="3956" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#8877#9258#0" expanded="false" />
+            <element signature="e#10224#12736#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/page.graphs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="43" selection-start="1111" selection-end="1123" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/libraries/graphs/graph.powers.of.ten.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="114" column="32" selection-start="3959" selection-end="3959" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/stylesheets/page.graphs.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="224" selection-end="224" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/client/templates/page.graphs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="37" selection-start="300" selection-end="300" vertical-scroll-proportion="0.16068867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

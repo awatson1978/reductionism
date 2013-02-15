@@ -1,0 +1,54 @@
+.inspection-container{
+  position: absolute;
+  bottom: 0px;
+  padding: 10px;
+  padding-top: 30px;
+  left: 0px;
+  width: 100%;
+}
+.inspection-image{
+  position: relative;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  z-index: 100;
+}
+.inspection-image-padding{
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+  background-color: #f2f2f2;
+  //border-top: 1px solid lightgray;
+}
+
+
+@color: #f2f2f2;
+@start: #f2f2f2;
+@stop: #f2f2f2;
+
+.transparency-gradient{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    height: 20px;
+    width: 100%;
+    z-index: 100000;
+
+    background: -webkit-gradient(linear,
+    left bottom,
+    left top,
+    color-stop(0, rgba(242, 242, 242, 1)),
+    color-stop(1, rgba(242, 242, 242, 0)));
+    background: -ms-linear-gradient(bottom,
+      rgba(242, 242, 242, 1),
+      rgba(242, 242, 242, 0));
+    background: -moz-linear-gradient(center bottom,
+      rgba(242, 242, 242, 1) 0%,
+      rgba(242, 242, 242, 0) 100%);
+    filter: e(%("progid:DXImageTransform.Microsoft.gradient(startColorstr='%d', endColorstr='%d', GradientType=0)",#00f2f2f2,#FFf2f2f2));
+
+
+}
