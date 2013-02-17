@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/powers-of-ten.iml" filepath="$PROJECT_DIR$/.idea/powers-of-ten.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/reductionism.iml" filepath="$PROJECT_DIR$/.idea/reductionism.iml" />
     </modules>
   </component>
 </project>
